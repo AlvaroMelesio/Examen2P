@@ -1,0 +1,33 @@
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\activity_main.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\buscar.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\guardar.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\90\res\layout\pag1.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\90\res\layout\buscar.xml
+Button;obj\Debug\90\res\layout\guardar.xml
+Button;obj\Debug\90\res\layout\pag1.xml
+cache-path;D:\601\Programacion\Visual Studio\Examen2P\Examen2P\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+color;obj\Debug\90\res\values\ic_launcher_background.xml
+EditText;obj\Debug\90\res\layout\buscar.xml
+EditText;obj\Debug\90\res\layout\guardar.xml
+external-cache-path;D:\601\Programacion\Visual Studio\Examen2P\Examen2P\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\601\Programacion\Visual Studio\Examen2P\Examen2P\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+ImageView;obj\Debug\90\res\layout\activity_main.xml
+ImageView;obj\Debug\90\res\layout\pag1.xml
+item;obj\Debug\90\res\values\styles.xml
+paths;D:\601\Programacion\Visual Studio\Examen2P\Examen2P\obj\Debug\90\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\ic_launcher_background.xml
+resources;obj\Debug\90\res\values\strings.xml
+resources;obj\Debug\90\res\values\styles.xml
+string;obj\Debug\90\res\values\strings.xml
+style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\buscar.xml
+TextView;obj\Debug\90\res\layout\guardar.xml
+TextView;obj\Debug\90\res\layout\pag1.xml
